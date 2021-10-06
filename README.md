@@ -1,6 +1,6 @@
 项目简介
 -------
-#### 中文 | [日本語](https://github.com/hanchengxu/messageCard/blob/main/README.ja.md) 
+#### 中文 | [日本語](https://github.com/hanchengxu/message-card/blob/main/README.ja.md) 
 
 esp8266和一块0.96寸OLED单色显示屏(I2C)组合成的一个信息显示模块。用arduino nano或者其他板子  
 也可以的，因为项目并没有使用Wifi和Bluetooth这些功能。仅仅是通过esp8266来显示数据。
@@ -49,5 +49,5 @@ u8g2.setFont(u8g2_font_b12_t_japanese3);
 | GNU | GND |
 | D1 | SCL |
 | D2 | SDA |  
-<img src="https://github.com/hanchengxu/messageCard/blob/main/3c10c88870aa0de9324506aeea43fad.jpg" width="500px" alt="" align=center />  
+<img src="https://github.com/hanchengxu/message-card/blob/main/3c10c88870aa0de9324506aeea43fad.jpg" width="500px" alt="" align=center />  
 
