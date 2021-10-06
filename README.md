@@ -1,6 +1,6 @@
 项目简介
 -------
-#### 中文 | [日本語](https://github.com/a2181745/a2181745/blob/main/README-ja.md) 
+#### 中文 | [日本語](https://github.com/hanchengxu/hanchengxu/blob/main/README-ja.md) 
 
 esp8266和一块0.96寸OLED单色显示屏(I2C)组合成的一个信息显示模块。用arduino nano或者其他板子  
 也可以的，因为项目并没有使用Wifi和Bluetooth这些功能。仅仅是通过esp8266来显示数据。
