@@ -1,6 +1,6 @@
 項目紹介
 -------
-#### [中文](https://github.com/hanchengxu/messageCard)  | 日本語
+#### [中文](https://github.com/hanchengxu/message-card)  | 日本語
 
 esp8266と0.96OLED(I2C)組立のモジュールです。arduino nanoやほかの開発ボードで運用もできます。  
 項目はWifi、Bluetoothなの機能を使っていません。esp8266で文章を表示のことです。
@@ -50,5 +50,5 @@ u8g2ライブラリの[Shennong](https://github.com/olikraus/u8g2/blob/master/sy
 | GNU | GND |
 | D1 | SCL |
 | D2 | SDA |  
-<img src="https://github.com/hanchengxu/messageCard/blob/main/3c10c88870aa0de9324506aeea43fad.jpg" width="500px" alt="" align=center />  
+<img src="https://github.com/hanchengxu/message-card/blob/main/3c10c88870aa0de9324506aeea43fad.jpg" width="500px" alt="" align=center />  
 
