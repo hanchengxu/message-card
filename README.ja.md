@@ -3,7 +3,7 @@
 #### [中文](https://github.com/hanchengxu/message-card)  | 日本語
 
 esp8266と0.96OLED(I2C)組立のモジュールです。arduino nanoやほかの開発ボードで運用もできます。  
-項目はWifi、Bluetoothなの機能を使っていません。esp8266で文章を表示のことです。
+項目はWifi、Bluetoothなの機能を使っていません。esp8266で文章を表示するだけです。
 
 ちょっと面白いのところは表示の文章が縦スクロール可能です。  
 モジュールは電源付けないので、micro usbよりモバイルバッテリーやパソコンのUSBと連接必要です。
