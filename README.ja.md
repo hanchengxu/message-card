@@ -32,7 +32,7 @@ const char c_str[] =
     "10文字数は最大の\n";
 ```
 ## 言語🌎
-u8g2ライブラリ使ってOLEDで文字表示します。  
+u8g2ライブラリを使ってOLEDに文字を表示します。  
 `setup`メソッドに表示の言語を設定できます。
 ```
 u8g2.setFont(u8g2_font_b12_t_japanese3);
