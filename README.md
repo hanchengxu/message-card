@@ -1,17 +1,15 @@
 项目简介
 -------
 #### 中文 | [日本語](https://github.com/hanchengxu/message-card/blob/main/README.ja.md) 
+<img src="https://github.com/hanchengxu/message-card/blob/main/demo-page.gif?raw=true" width="300px" height="300px"/>  
 
-esp8266和一块0.96寸OLED单色显示屏(I2C)组合成的一个信息显示模块。用arduino nano或者其他板子  
-也可以,仅仅因为手头没有其他板子😬。虽然是esp8266但没有使用Wifi和Bluetooth这些功能。  
-仅仅是通过esp8266来显示数据而已。
-
+esp8266和一块0.96寸OLED单色显示屏(I2C)组合成的一个信息显示模块。  
+用arduino nano或者其他板子也可以,仅仅因为手头没有其他板子😬。  
+虽然是esp8266但没有使用Wifi和Bluetooth这些功能。 
+仅仅是通过esp8266来显示数据而已。  
 稍微有那么点特色的话就是支持纵向滚动显示数据了。  
-
 并没有独立供电，需要micro usb 连接移动电源或者电脑USB端口来供电。  
-正因如此，也不需要焊接，组装起来也非常简单。
-
-
+正因如此，也不需要焊接，组装起来也非常简简单。 
 ## 材料
 1. esp8266一块
 2. 0.96 OLED一块(I2C协议)
