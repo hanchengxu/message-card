@@ -1,7 +1,7 @@
 項目紹介
 -------
 #### [中文](https://github.com/hanchengxu/message-card)  | 日本語
-
+<img src="https://github.com/hanchengxu/message-card/blob/main/demo-page.gif?raw=true" width="300px" height="300px"/>  
 esp8266と0.96OLED(I2C)組立のモジュールです。arduino nanoやほかの開発ボードで運用もできます。  
 項目はWifi、Bluetoothなの機能を使っていません。esp8266で文章を表示するだけです。
 
